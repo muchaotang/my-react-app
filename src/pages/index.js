@@ -6,7 +6,7 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <p>Welcome to my design world.</p>
     <p>Now go build something great.</p>
-    <Link to="/page-2/">View my resume...</Link>
+    <Link to="/page-2/">View my resume</Link>
   </div>
 )
 
