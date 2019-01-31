@@ -5,3 +5,4 @@ $(window).scroll(function () {
         $('.Header').removeClass('floatingHeader');
     }
 }
+)
