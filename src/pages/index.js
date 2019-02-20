@@ -35,11 +35,11 @@ const IndexPage = () => (
       </video> */}
 
       <div className='HeroGroup'>
-        <h1>HELLO!</h1>
-        <p>I'm Muchao, currently designing for Map and Customer Identity @Uber.<br/>
+        <h1>UNDER CONSTRUCTION</h1>
+        {/* <p>I'm Muchao, currently designing for Map and Customer Identity @Uber.<br/>
         Interested in education, technology, entrepreneurship.<br/>
         Empathy, craft and a handful of craziness are the secret sauce of my work.
-        I write blogs on <Link to='https://medium.com/@muchao'>Medium</Link> and <Link to='https://www.zhihu.com/people/muuuchao'>知乎</Link><br/></p>
+        I write blogs on <Link to='https://medium.com/@muchao'>Medium</Link> and <Link to='https://www.zhihu.com/people/muuuchao'>知乎</Link><br/></p> */}
         
         <div className='Logos'>
           <img src={require('../img/logo-sketch.png')} width="50" />
