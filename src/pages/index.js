@@ -72,22 +72,22 @@ const IndexPage = () => (
       <h2>Featuring UX, Industrial, visual design</h2>
       <div className='CardGroup'>
         <Card
-          title="React for designers"
+          title="OneUber"
+          text="One place for Uber"
+          image={require('../img/cover_pics/cmc.jpg')}
+        />
+        <Card
+          title="Abstract"
           text="12 sections"
           image={require('../img/cover_pics/cmc.jpg')}
         />
         <Card
-          title="React for designers"
+          title="Bilateral"
           text="12 sections"
           image={require('../img/cover_pics/cmc.jpg')}
         />
         <Card
-          title="React for designers"
-          text="12 sections"
-          image={require('../img/cover_pics/cmc.jpg')}
-        />
-        <Card
-          title="React for designers"
+          title="Connect"
           text="12 sections"
           image={require('../img/cover_pics/cmc.jpg')}
         />
