@@ -186,6 +186,7 @@ a{
 
 
 .Hero h1{
+	line-height: 1em;
 	opacity: 0;
 	animation: HeroAnimation 3s cubic-bezier(0.2, 0.8, 0.2, 1) 0.1s forwards;
 }
